@@ -20,7 +20,7 @@ coin_collect_channel.set_volume(0.2)
 
 bg_channel.play(background_sound, loops=-1)
 
-font = pygame.font.Font("/Users/reine/Downloads/minecraftia/Minecraftia-Regular.ttf", 20)
+font = pygame.font.Font("assets/minecraftia/Minecraftia-Regular.ttf", 20)
 
 WIDTH, HEIGHT = 1200, 800
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
