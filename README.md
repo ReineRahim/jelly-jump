@@ -29,18 +29,14 @@ increases.
 ## How to Run
 
 1.  Install pygame:
-
-```{=html}
-<!-- -->
 ```
     pip install pygame
-
+```
 2.  Run the game:
 
-```{=html}
-<!-- -->
 ```
     python jellyjump.py
+```
 
 ## Project Structure
 
